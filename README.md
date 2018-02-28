@@ -4,7 +4,7 @@ This repository contains my experiments on toxic comment classification using fe
 
 I trained the model on a GPU which significantly improved training time. I also experimented with dropout regularization to minimize overfitting and improve performance on the test set. The final model improved on a naive baseline (a simple columnwise mean of each category) by 50%.
 
-This is also the project I submitted for my application to [SharpestMinds](https://www.sharpestminds.com/)
+This is also the project I submitted for my application to [SharpestMinds](https://www.sharpestminds.com/).
 
 The relevant files in this folder are
 1. [environment.yml](https://github.com/palpen/sharpestminds/blob/master/environment.yml): Packages used in the project
